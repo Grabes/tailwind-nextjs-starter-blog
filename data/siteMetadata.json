@@ -1,8 +1,8 @@
 {
-  "title": "Next.js Starter Blog",
-  "author": "Tails Azimuth",
-  "headerTitle": "TailwindBlog",
-  "description": "A blog created with Next.js and Tailwind.css",
+  "title": "BC Campsite Tracker",
+  "author": "Campsite Tracker",
+  "headerTitle": "CampsiteTracker",
+  "description": "Track campsite availability and get automatic alerts as soon as BC provincial campsites are available.",
   "language": "en-us",
   "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
   "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
